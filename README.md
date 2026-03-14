@@ -1,2 +1,7 @@
 # Nasty
-A good, great, and ghetto CLI editor in Go.
+<div align="center">
+  <img alt="" src="https://i.imgur.com/NCjw7pA.jpeg"/><br>
+  <b>A good, great, and ghetto CLI editor in Go.</b>
+</div><br>
+A lightweight and simple code editor for potatoes and toasters, built in Go. Inspired by Vim, the goal is to make it even more minimal while still being customizable.<br><br>
+It's currently a working prototype with basic features. If you'd like to help out, go ahead :)
